@@ -6,7 +6,7 @@ Written in Python with [PySimpleGUI](https://www.pysimplegui.org/en/latest/) and
 
 
 ## BINARY
-[Download (Windows)](/bin/kitube.exe)
+[Download (Windows)](https://github.com/samkitano/kitube/raw/master/bin/kitube.exe)
 
 
 ## USAGE
